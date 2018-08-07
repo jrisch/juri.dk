@@ -1,4 +1,4 @@
-baseurl = "http://juri.dk"
+baseurl = "https://juri.dk"
 title = "Juri Rischel Jensen"
 theme = "dimension"
 languageCode = "en-us"
