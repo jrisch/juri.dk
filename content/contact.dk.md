@@ -26,7 +26,7 @@ draft: false
 <span id="contactformsent">Tak for din henvendelse!</span>
 
 <script>
-$(document).ready(function($) { 
+$(document).ready(function($) {
     $(function(){
         if (window.location.search == "?sent") {
         	$('#contactform').hide();
