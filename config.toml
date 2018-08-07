@@ -1,0 +1,53 @@
+baseurl = "http://juri.dk"
+title = "Juri Rischel Jensen"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->CTO and Partner at Fab:IT ° Owner at Optimal Minimal ° Consultant ° Techie ° Entrepreneur ° Photographer ° Biker<!--]--><br />
+                <!--[-->Practicing DevOps daily in Fab:IT and preaching a healthy lifestyle in Optimal Minimal<!--]-->'
+  logo = "fa-motorcycle"
+  copyright = "Juri Rischel Jensen"
+
+[[params.social]]
+  medium = "medium"
+  icon = "medium"
+  link = "https://medium.com/@jrisch"
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/juri-rischel-jensen-498b8/"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://instagram.com/jrisch"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/jrisch"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/jrisch"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/juri.r.jensen"
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.dk]
+languageName = "Dansk"
+weight = 2
+title = "Juri Rischel Jensen"
+description = '<!--[-->CTO og Partner i Fab:IT ApS ° Ejer af Optimal Minimal ° Konsulent ° Techie ° Iværksætter ° Fotograf ° Motorcykelentusiast<!--]--><br />
+                <!--[-->Praktiserer DevOps dagligt i Fab:IT og prædiker sund livsstil i Optimal Minimal<!--]-->'
